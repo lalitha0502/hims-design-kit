@@ -1,13 +1,32 @@
-# Figma Design Project
-This project is a Hospital Appointment Management System designed in Figma, featuring two separate user interfaces:
+# 🏥 HIMS Design Kit
 
-👩‍⚕️ Hospital Login
+This repository contains the **UI/UX design prototype** for a Hospital Information Management System (HIMS), created using **Figma**. The design provides separate workflows for hospital staff and patients to manage operations efficiently.
 
-🧑‍🦽 Patient Login
+---
 
-The system streamlines the appointment process and provides clear visibility for hospitals and patients.
+## 🎯 Overview
 
-🔗 [View the Figma Design](https://www.figma.com/design/kS53EzF7NiG7NyJVBiPGEa/Mobile-app?node-id=0-1&t=dJHZGku1gPVG7S00-1)
+The goal of this design system is to modernize and simplify hospital operations such as:
 
+- Patient appointment booking
+- Real-time hospital resource tracking
+- Transparent communication between patients and hospitals
 
-This project is designed in Figma. Click the link above to view the full prototype and design.
+The system is split into **two main user roles**:
+
+### 👤 Patient View
+- Login / Sign Up
+- Book a new appointment
+- View appointment status
+- See appointment history
+
+### 🏥 Hospital Staff View
+- Hospital login panel
+- Check number of current patients
+- View and manage appointment status
+- Track hospital revenue
+- Monitor number of employees
+- View available rooms and their status
+- See which doctors are currently available
+
+---
